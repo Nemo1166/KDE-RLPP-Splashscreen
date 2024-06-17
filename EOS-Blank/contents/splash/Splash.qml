@@ -62,7 +62,7 @@ Image {
             id: logo
             property real size: units.gridUnit * 12
             anchors.centerIn: parent
-            source: "images/logo.png"
+            source: "images/logo.svg"
             sourceSize.width: size
             sourceSize.height: size
         }
